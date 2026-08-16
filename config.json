@@ -1,13 +1,13 @@
 {
-  "mongoURI": "mongodb+srv://username:pass@cluster0.8ib7j.mongodb.net/facebook_bot?retryWrites=true&w=majority&appName=Cluster0",
+  "mongoURI": "mongodb+srv://mp889881_db_user:jackson12965@cluster0.kjkxtmk.mongodb.net/?appName=Cluster0",
   "appstateSyncMinutes": 10,
-  "ownerID": "100037743553265",
+  "ownerID": "100091340464285",
   "adminIDs": [
-    "100037743553265",
+    "100091340464285",
     "ADMIN_ID_2"
   ],
   "supportIDs": [
-    "100037743553265",
+    "100091340464285",
     "SUPPORT_ID_2"
   ],
   "adminInboxThreadID": "6567071300016227",
