@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "war",
   version: "1.0.0",
-  hasPermssion: 2,
+  hasPermssion: 0,
   credits: "... - Long LTD",
   description: "War nát cái boxchat",
   commandCategory: "group",
